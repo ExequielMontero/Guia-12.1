@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Ejercicio_3
 {
-    public partial class b : Form
+    public partial class Resultados : Form
     {
-        public b()
+        public Resultados()
         {
             InitializeComponent();
-        }
-
-        private void cmxPais_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }

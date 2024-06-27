@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ejercicio_3
+namespace taller_prueba
 {
-    public partial class b : Form
+    public partial class total : Form
     {
-        public b()
+        public total()
         {
             InitializeComponent();
-        }
-
-        private void cmxPais_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
